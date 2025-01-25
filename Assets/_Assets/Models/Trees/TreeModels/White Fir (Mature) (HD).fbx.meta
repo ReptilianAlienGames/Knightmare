@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: aec672b4c467d074eb721dc720c5b50d
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Fir Bark
+    second: {fileID: 2100000, guid: aff67de7639764c47b5cd36eed342526, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Fir Bark_baked
+    second: {fileID: 2100000, guid: 559ac06abb1553140b301f46d3be1d23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Fir Cone_baked
+    second: {fileID: 2100000, guid: 39bce79da3409b248b177929a1a08021, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Fir Needles 1
+    second: {fileID: 2100000, guid: 43a082c9897ce0a499a275667f2ea54b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Fir Needles 2
+    second: {fileID: 2100000, guid: 7a757e186a7b36543b79330add8f6463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Fir Needles 3
+    second: {fileID: 2100000, guid: 7646cdbaa706fa94b8e3afc757d635c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Fir Needles 4
+    second: {fileID: 2100000, guid: d94b95fa7585c8a43acffa35b0b115a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Fir Needles Branch 1
+    second: {fileID: 2100000, guid: 70a2a79365f3cf64f9a654215fc62871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Fir Needles Branch 2
+    second: {fileID: 2100000, guid: a747d48d2dbc1854881308b6213587d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Fir Needles Dry 1
+    second: {fileID: 2100000, guid: 026b6b43c9adafb418546480a167cc98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Fir Needles Dry 2
+    second: {fileID: 2100000, guid: ec4874cbd59de30408dde2c488e0be35, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Bark_Bark_Conifer_A_bottom_TR_Color
+    second: {fileID: 2800000, guid: 3ce3fc283bd36aa4ea35c90701711ace, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Bark_Bark_Conifer_A_bottom_TR_NOR_Normal
+    second: {fileID: 2800000, guid: 9367a244228b9a44680fdb3b8f6cdc1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Bark_baked_Color
+    second: {fileID: 2800000, guid: 4ad6c8d0dcaae3d4b96996b8a7b468a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Bark_baked_Normal
+    second: {fileID: 2800000, guid: fd271112a8834aa4dad050e796c8d8d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_1_Pine_Silver_1_7_TR_Color
+    second: {fileID: 2800000, guid: 0eccdd6b77a084049b0b85c263eace7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_1_Pine_Silver_1_7_TR_NOR_Normal
+    second: {fileID: 2800000, guid: 5b92e787f8cb88645a1a191313d1047a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_2_Pine_Silver_1_10_TR_Color
+    second: {fileID: 2800000, guid: dc26b99d4d0a68d44b8e22e7eddf9afd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_2_Pine_Silver_1_10_TR_NOR_Normal
+    second: {fileID: 2800000, guid: c0649f20f3408e045942e3fbbb7f5105, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_3_Pine_Silver_1_5_TR_Color
+    second: {fileID: 2800000, guid: c2d015d766bfc8c498283a4b4d752fd4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_3_Pine_Silver_1_5_TR_NOR_Normal
+    second: {fileID: 2800000, guid: 38a7185b7cead0c45ba124fe1633be9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_4_Pine_Silver_1_4_TR_Color
+    second: {fileID: 2800000, guid: b9cc239c5fa708e4fa0de77bf23ebcaf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_4_Pine_Silver_1_4_TR_NOR_Normal
+    second: {fileID: 2800000, guid: e8cf32519497afb40a1ceafedda099d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_Branch_1_Branch_Whole_Pine_1_TR_Color
+    second: {fileID: 2800000, guid: f2433e1ce93674047bc556c1a9ae5e01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_Branch_1_Branch_Whole_Pine_1_TR_NOR_Normal
+    second: {fileID: 2800000, guid: 03ca3894960b1e84889c2a7797b39ad3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_Branch_2_Branch_Whole_Pine_1a_TR_Color
+    second: {fileID: 2800000, guid: 4ed83d9214d004a4e8323443a41e95e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_Branch_2_Branch_Whole_Pine_1a_TR_NOR_Normal
+    second: {fileID: 2800000, guid: 8b94ff3fb80542d4e8c1ebec0fbb55ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_Dry_1_Branch_Dry_Pine_1_TR_Color
+    second: {fileID: 2800000, guid: 108db87e50ac80d408bf439395b65cad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_Dry_1_Branch_Dry_Pine_1_TR_NOR_Normal
+    second: {fileID: 2800000, guid: c4c17d6bf9a71554fa0ff4959019b1cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_Dry_2_Branch_Dry_Pine_2_TR_Color
+    second: {fileID: 2800000, guid: 724b46ceae64f004590d0b0d24cc5323, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_Fir__Mature___HD__White_Fir_Needles_Dry_2_Branch_Dry_Pine_2_TR_NOR_Normal
+    second: {fileID: 2800000, guid: affd4482c70c5b443a545c92ee553def, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
